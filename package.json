@@ -19,5 +19,8 @@
   "homepage": "https://github.com/RavArty/list#readme",
   "bin": {
     "node-ls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
   }
 }
